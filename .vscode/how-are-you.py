@@ -16,5 +16,4 @@ elif question in bad:
 else :
  print ("I dont know that felling, but thanks for telling me " + name)
 
-
-#Im starting to like coding 
+#Im starting to like coding, i know that this is the start of something big!
