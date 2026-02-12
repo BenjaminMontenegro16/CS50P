@@ -2,12 +2,14 @@
 
 name = input ("What is your name? ")
 
+name = name.strip()
+
 question = input ("How are you " + name + "?: ")
-good = ["good", "fine", "perfect", "Good", "GOOD", "Perfect", "Fine", "Really good", "really good"]
+good = ["good", "fine", "perfect", "Good", "GOOD", "Perfect", "Fine", "Really good", "really good", "great"]
 bad = ["bad", "terrible", "Bad", "BAD", "Terrible", "Horrible", "horrible", "Not good"]
 
 if question in good:
- print ("keep that all day " + name)
+ print ("Thats great, keep it like that " + name + ":)")
 
 
 elif question in bad:
