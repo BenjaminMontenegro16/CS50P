@@ -1,6 +1,8 @@
 # CS50P: Introduction to Programming with Python
 
-This repository contains my solutions to the problem sets from **Harvard University's CS50P** course. My goal is to master Python fundamentals and build a strong foundation for **Backend Development**.
+Welcome to my repository! I am currently diving into **Harvard's CS50P (Introduction to Programming with Python)**. 
+
+This space is dedicated to my progress, logic experiments, and personal projects as I work toward becoming a Backend Developer.
 
 ## 🚀 Progress
 - [x] **Week 0:** Functions, Variables
