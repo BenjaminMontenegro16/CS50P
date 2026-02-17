@@ -19,8 +19,17 @@ def calculate_status(age, savings):
         print("Wow")     
     elif savings <= 20:
         print("Umm, keep coding i guess...")   
+    elif age >= 30 and age <= 69:
+        print("Its no expiration date for dreams, keep it up!")
+    elif age >= 70 and age <= 99:
+        print("You are a legend, keep coding and inspirating others :) ")
+    elif age >= 100 and age <= 149:
+        print("Wow, over a hundred years old and still coding, you are a legend, keep coding and inspirating others :) ")
+    elif age > 150:
+        print("Do you even even exist? haha, but if you do, you are a legend, keep coding and inspirating others :) ")
     else:
         print("I belive in you, you are on the right path budy :) ")   
 
 if __name__ == "__main__":
     main()
+
