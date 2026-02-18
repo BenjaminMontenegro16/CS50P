@@ -6,8 +6,8 @@ This space is dedicated to my progress, logic experiments, and personal projects
 
 ## 🚀 Progress
 - [x] **Week 0:** Functions, Variables
-- [ ] **Week 1:** Conditionals
-- [ ] **Week 2:** Loops
+- [x] **Week 1:** Conditionals
+- [x] **Week 2:** Loops
 - [ ] **Week 3:** Exceptions
 - [ ] **Week 4:** Libraries
 - [ ] **Week 5:** Unit Tests
