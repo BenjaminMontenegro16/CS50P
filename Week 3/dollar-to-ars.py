@@ -4,7 +4,7 @@ dollar = [{"name": "dolar oficial", "cost": 1370},
            {"name":"dolar mep", "cost": 1408 }]
 
 
-user_request = input("Que dolar desea consultar? ").strip().lower()
+user_request = input("Que dolar desea consultar? ").strip(" ").lower()
 
 
 found = False
