@@ -16,3 +16,5 @@ for d in dollar :
 
 
 if not found: print("Dolar no encontrado")
+
+#This version is outdated!, the real one is on week 4, when i learned about APIs :)

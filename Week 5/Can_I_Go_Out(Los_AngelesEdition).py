@@ -30,3 +30,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#Now im starting to like APIs, its not that logical, its more research than syntax.
