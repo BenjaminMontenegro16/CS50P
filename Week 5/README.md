@@ -1,7 +1,3 @@
-Got it! You want to keep that specific, high-impact format for Week 5. This style is perfect because it highlights the "Key Concepts" and "Math Logic," which is exactly what technical recruiters in the USA want to see from a Backend Developer.
-
-Here is your Week 5 README corrected and adapted to that exact format:
-
 📂 Week 5: Unit Tests & API Integration
 This week, I focused on making my code production-ready by implementing robust error handling, API consumption, and preparing for the Harvard CS50P unit testing modules.
 
