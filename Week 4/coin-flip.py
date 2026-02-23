@@ -1,10 +1,7 @@
-while True:
-    try:
-        import random
 
-        coin = random.choice(["Heads", "Tails"])
+import random
+coin = random.choice(["Heads", "Tails"])
 
-        print(coin)
+print(coin)
 
-    except EOFError :
-        print("End of program")
+#Its my first time dealing with libraries, easy... For now.
