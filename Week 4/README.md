@@ -1,28 +1,36 @@
-📂 Week 4: APIs & External Data Integration
-This week, I mastered the art of fetching real-time data from external servers, handling authentication keys, and managing network-layer exceptions to build a live financial utility.
+📂 Week 4: Libraries, APIs & Logic Modules
+This week focused on utilizing Python’s modularity to solve real-world problems, from financial tracking to regional utility tools, while implementing external libraries for live data.
 
-🚀 Project: The Real-Time Bitcoin Price Index
-A professional-grade command-line tool that communicates with the CoinCap v3 REST API to provide instant Bitcoin-to-USD valuations.
+🚀 Project 1: DNI-Age-Estimator (Based in Argentina)
+A backend utility designed to estimate a person's age based on their DNI number, specifically calibrated for the Argentine registration system.
 
-API Authentication: Implemented secure HTTP Headers to pass Bearer Tokens, allowing authorized access to protected data endpoints.
+Logic Implementation: Developed a custom algorithm to map DNI numeric ranges to approximate birth years.
 
-JSON Deep-Parsing: Developed logic to traverse complex nested dictionaries and extract specific data points from JSON responses.
+Regional Calibration: Focused on the Argentine National Registry data to ensure localized accuracy.
 
-Production-Grade Error Handling: Utilized try/except blocks to catch RequestException, KeyError, and ValueError, ensuring the program exits gracefully without "Tracebacks" even if the API server is down.
+Data Handling: Implemented input validation to ensure the DNI provided follows the correct integer format.
 
-Financial Formatting: Leveraged f-strings with thousands-separators (:,) and specific float precision (.4f) to meet international banking display standards.
+🚀 Project 2: Dolar-to-Arg-Peso (Real-Time Converter)
+A financial tool that tracks the volatile exchange rate in Argentina using live data.
 
-📓 Developer Insights for US Recruiters
+API Integration: Fetches real-time exchange rates to ensure the converter "doesn't get old" as the market fluctuates.
 
-External Integration: This project proves I can connect Python applications to the outside world, a fundamental skill for any Backend Developer working in the US market.
+Math Logic: Implemented dynamic multiplication to convert USD amounts into ARS based on the latest fetched rate.
 
-Security Mindset: By moving from public endpoints to authenticated v3 APIs, I am practicing how to handle sensitive credentials like API Keys.
+Scalability: Designed the backend to update automatically without needing manual code changes for new rates.
 
-Handling Unreliability: I designed this script with the understanding that "the internet breaks," implementing silent exits to maintain a professional user experience.
+🚀 Project 3: PuedoSalir (Posadas Editions)
+Localized weather checkers that help users in Misiones decide if it's a good time to go outside.
 
-🚀 Bonus Projects (Early Week 4)
-I also worked on these utilities to sharpen my logic before hitting the APIs:
+Geographical Data: Created two distinct versions to handle the specific coordinates for both Dos de Mayo and Posadas.
 
-The Pro-CoinFlip: A probability simulator using the random library to test outcome frequencies.
+External Modules: Utilized the requests library to communicate with weather service APIs.
 
-DNI Age Estimator: A logic-heavy script that estimates a person's age based on Argentine DNI numbering patterns, using strictly local data and custom algorithms.
+Conditional Output: Developed a decision engine that interprets weather data to return a simple, user-friendly recommendation.
+
+🚀 Project 4: Coin-Flip Simulator
+A simple but effective probability tool using Python's built-in randomness modules.
+
+Key Concept: Utilized the random library to simulate binary outcomes (Heads/Tails).
+
+Logic Efficiency: Focused on writing clean, minimal code for quick iterative execution.
