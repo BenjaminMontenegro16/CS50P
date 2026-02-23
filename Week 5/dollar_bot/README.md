@@ -22,4 +22,5 @@ A simple yet robust Telegram bot built with Python that converts USD to global c
 ---
 *Developed by BenjaminMontenegro16 as part of my Backend Developer journey.*
 [![X Follow](https://img.shields.io/badge/X_Follow-@BenjaMon__Dev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BenjaMon_Dev)
+
 [![Reddit Follow](https://img.shields.io/badge/Reddit_Follow-u/BenjaMon_Dev/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/BenjaMon_Dev/)
