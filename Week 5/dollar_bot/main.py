@@ -58,6 +58,8 @@ app.add_handler(CommandHandler("info", info))
 
 app.run_polling()
 
-#I finally made my first Telegram Bot, I hope i can sell these bots, not this one, this is just a demo of all the projects i want to make, but anyways, i don't know who
-#would want to buy this but if you want it just text me at my X: @BenjaMon_Dev. 
+#I finally made my first Telegram Bot, I hope i can sell these bots, not this one, this is just a demo of all the projects 
+#i want to make, but anyways, i don't know who would want to buy this bot but if you want it just text me at my X: @BenjaMon_Dev. 
+
+#PD: The bot will be runnig untill i just end it, so if it doesnt work its because its outdated :)
 
