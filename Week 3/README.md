@@ -1,27 +1,33 @@
-📂 Week 3: Data Structures & Loops
-This week, I moved beyond simple variables to working with complex data structures like Lists of Dictionaries and implementing Iterative Logic for financial simulations.
+# Week 3 — Data Structures & Loops
 
-🚀 Project 1: Investment Growth Simulator
-A tool designed to calculate compound interest over a specified period.
+> ⚠️ These are **personal projects** built while studying CS50P. They are not solutions to CS50P problem sets and were never submitted as such.
 
-Key Concept: Using for loops with a range to simulate time-based growth.
+Week 3 moved beyond simple variables to working with lists of dictionaries and iterative logic for financial simulations.
 
-Math Logic: Implemented recursive balance updates.
+---
 
-Formatting: Utilized Python’s round() function and f-strings for clean output.
+## Projects
 
-🚀 Project 2: Argentine Exchange Rate Finder (Dólar Tracker)
+### Investment Growth Simulator
+A tool that calculates compound interest over a specified period.
+
+- Used `for` loops with `range()` to simulate time-based growth
+- Implemented recursive balance updates and `round()` for clean output
+
+### Argentine Exchange Rate Finder (Dólar Tracker)
 A search utility that parses a list of dictionaries to find specific exchange rate data.
 
-Data Structure: Implemented a List of Dictionaries to store key-value pairs.
+- Implemented a list of dictionaries to store key-value pairs
+- Used `.strip()` and `.lower()` for input sanitization
+- Linear search with a `break` statement to optimize performance
 
-Sanitization: Used .strip() and .lower() to handle user input variations.
+### Password Security Checker
+A backend utility that validates passwords based on complexity requirements.
 
-Search Logic: Implemented a linear search with a break statement to optimize performance.
+- Verified length and character diversity
+- Used conditional logic to provide immediate feedback on security strength
 
-🚀 Project 3: Password Security Checker
-A backend utility that validates user passwords based on specific complexity requirements.
+---
 
-Security Mindset: Focused on verifying length and character diversity.
-
-Validation: Used conditional logic to provide immediate feedback on security strength.
+## What I Learned
+Working with complex data structures and understanding how loops combined with data structures unlock real-world use cases.
