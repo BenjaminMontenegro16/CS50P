@@ -1,20 +1,22 @@
-📂 Week 2: Functions & Financial Logic
-This week, I focused on structuring code using Functions and handling complex Conditional Logic to create a personal wealth and age milestone tracker.
+# Week 2 — Functions & Financial Logic
 
-🚀 Project: The "Path to Success" Tracker
-A custom script designed to evaluate a user's financial status based on their age and savings.
+> ⚠️ These are **personal projects** built while studying CS50P. They are not solutions to CS50P problem sets and were never submitted as such.
 
-Key Concept: Transitioning from "Scripting" to Functional Programming by using def main() and passing arguments to helper functions.
+Week 2 focused on structuring code using functions and handling complex conditional logic to build a personal wealth and age milestone tracker.
 
-Data Sanitization: Implemented .strip() and .replace("$", "") to clean currency inputs, allowing the program to process numbers even if the user types a "$" sign.
+---
 
-Complex Conditionals: Utilized if/elif/else blocks to create specific milestones, including a custom check for the 2025 Aston Martin Vantage goal.
+## Projects
 
-Execution Guard: Implemented if __name__ == "__main__": to follow professional Python standards for script execution.
+### The "Path to Success" Tracker
+A custom script that evaluates a user's financial status based on their age and savings.
 
-📓 Developer Insights for US Recruiters
-Clean Structure: By separating the "Input" (main) from the "Logic" (calculate_status), I am demonstrating an early understanding of the Single Responsibility Principle.
+- Transitioned from scripting to functional programming using `def main()` and helper functions
+- Implemented `.strip()` and `.replace("$", "")` to clean currency inputs
+- Used `if/elif/else` blocks to create specific financial milestones
+- Implemented `if __name__ == "__main__":` following professional Python standards
 
-Goal-Oriented Code: This project incorporates real-world financial goals, showing an interest in building FinTech-related backend utilities.
+---
 
-Formatting: Practiced using f-strings and type conversion (int, float) to ensure data type consistency throughout the application.
+## What I Learned
+By separating input logic (`main`) from business logic (`calculate_status`), I got an early introduction to the Single Responsibility Principle and cleaner code structure.
