@@ -1,20 +1,22 @@
-📂 Week 1: Conditionals & User Experience
-This week, I focused on building interactive applications that use Control Flow to respond to user input in real-time.
+# Week 1 — Conditionals & User Experience
 
-🚀 Project: The "Aston Martin" Team Selector
-A simple but effective script that uses membership testing to categorize user responses.
+> ⚠️ These are **personal projects** built while studying CS50P. They are not solutions to CS50P problem sets and were never submitted as such.
 
-Key Concept: Transitioning from basic if/else to using Membership Operators (in) with predefined lists.
+Week 1 focused on building interactive applications that use control flow to respond to user input in real time.
 
-Input Sanitization: Utilized .strip() and .lower() to ensure the program remains robust even if the user types with extra spaces or capital letters.
+---
 
-User Experience (UX): Built a "fallback" condition (the else statement) to handle unexpected inputs—a key part of Defensive Programming.
+## Projects
 
-String Formatting: Used f-strings to create a personalized experience by greeting the user by name.
+### The "Aston Martin" Team Selector
+A script that uses membership testing to categorize user responses.
 
-📓 Developer Insights for US Recruiters
-Membership Testing: Instead of writing multiple or statements (e.g., if x == "yes" or x == "yeah"), I used a list-based approach for cleaner, more scalable code.
+- Used `in` with predefined lists instead of chaining `or` statements — cleaner and more scalable
+- Applied `.strip()` and `.lower()` for input sanitization
+- Built a fallback `else` condition to handle unexpected inputs — an early introduction to defensive programming
+- Used f-strings to create a personalized experience
 
-Logic Flow: Demonstrated the ability to create multi-branch logic (if, elif, else) to handle different execution paths.
+---
 
-Consistency: This project reflects my personal drive and goals, showing that I build projects centered around my real-world ambitions.
+## What I Learned
+Transitioning from basic `if/else` to list-based membership testing and multi-branch logic.
