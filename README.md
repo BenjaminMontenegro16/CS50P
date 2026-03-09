@@ -22,6 +22,7 @@ This space is dedicated to my progress, logic experiments, and personal projects
 <a href="https://twitter.com/BenjaMon_Dev"><img src="https://img.shields.io/badge/BenjaMon__Dev-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/></a>
 <a href="https://t.me/BenjaMon_Dev"><img src="https://img.shields.io/badge/BenMon__Dev-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
 <a href="https://www.reddit.com/user/BenjaMon_Dev/"><img src="https://img.shields.io/badge/BenjaMon__Dev-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit"/></a>
+<a href="https://www.linkedin.com/in/benjamin-montenegro-b%C3%A4r-814878367/"><img src="https://img.shields.io/badge/Benjamin_Montenegro-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 </div>
 
 ---
