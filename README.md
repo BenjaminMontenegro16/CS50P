@@ -14,8 +14,7 @@ This space is dedicated to my progress, logic experiments, and personal projects
 - [ ] **Week 6:** File I/O
 - [ ] **Week 7:** Regular Expressions
 - [ ] **Week 8:** Object-Oriented Programming
-- [ ] **Week 9:** Et Cetera
-- [ ] **Final Project** 🎓
+- [ ] **Week 9:** Final Project 🎓
 
 ---
 *“I am a 14-year-old developer on the road to mastery. Every line of code is a step closer to the dream.”*
