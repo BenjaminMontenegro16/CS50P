@@ -17,4 +17,3 @@ This space is dedicated to my progress, logic experiments, and personal projects
 - [ ] **Week 9:** Final Project 🎓
 
 ---
-*“I am a 14-year-old developer on the road to mastery. Every line of code is a step closer to the dream.”*
