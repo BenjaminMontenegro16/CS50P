@@ -11,7 +11,7 @@ This space is dedicated to my progress, logic experiments, and personal projects
 - [x] **Week 4:** Libraries
 - [x] **Week 5:** Unit Tests
 - [x] **Week 6:** File I/O
-- [ ] **Week 7:** Regular Expressions
+- [x] **Week 7:** Regular Expressions
 - [ ] **Week 8:** Object-Oriented Programming
 - [ ] **Week 9:** Final Project 🎓
 
