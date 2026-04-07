@@ -33,4 +33,8 @@ If you're here looking for something worth checking out, skip this folder and he
 
 ---
 
+###  🔔 IRemindr
+> A Telegram Bot that reminds you whatever you want, simple but efective
+
+🔗 [https://github.com/BenjaminMontenegro16/IRemindr](https://github.com/BenjaminMontenegro16/IRemindr)
 *Back soon with more projects. — [Benjamin Montenegro](https://github.com/BenjaminMontenegro16)*
