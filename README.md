@@ -19,7 +19,7 @@ This space was dedicated to my progress, logic experiments, and personal project
 ## 📝 Certificate
 
 <div align="center">
-  <img src="./cs50pcer.png" 
+  <img src="./Images/cs50pcer.png" 
        style="border-radius: 20px; 
               border: 1px solid #ddd; 
               box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
