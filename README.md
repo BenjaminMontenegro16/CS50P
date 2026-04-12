@@ -1,6 +1,6 @@
 # CS50P: Introduction to Programming with Python #
 
-Welcome to my repository! I allready finished Harvard's CS50P! (Introduction to Programming with Python)**. 
+Welcome to my repository! I already finished Harvard's CS50P! (Introduction to Programming with Python)**. 
 This space was dedicated to my progress, logic experiments, and personal projects as I work toward becoming a Backend Developer.
 
 ## 🚀 Progress
