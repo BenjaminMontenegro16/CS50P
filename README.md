@@ -16,6 +16,18 @@ This space was dedicated to my progress, logic experiments, and personal project
 - [x] **Week 9:** Final Project 🎓
 
 ---
+## 📝 Certificate
+
+<div align="center">
+  <img src="./cs50pcer.png" 
+       style="border-radius: 20px; 
+              border: 1px solid #ddd; 
+              box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
+       width="650" 
+       alt="CS50P Certificate">
+</div>
+
+---
 
 ## 📬 Connect with me!
 <div align="center">
